@@ -1,9 +1,6 @@
 /*********************************************************************
- *   A demo example using several of the peripherals on the base board
- *
- *   Copyright(C) 2011, EE2024
- *   All rights reserved.
- *
+ *   A demo example using several of the peripherals on the Embedded
+ *   Artists Base Board using the LPC1769 Cortex M3 Processer
  **********************************************************************/
 
 #include "lpc17xx_pinsel.h"
